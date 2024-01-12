@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-ishwari198&label=PROFILE+VIEWS)
 
+<img src="data.gif" alt="GitHub Logo" width="700px" height="200px">
+
 - 🧑‍💻 Software Engineer
 - 🌱 I’m currently learning data engineering,AI/ML and Node js
 - 👯 I’m looking to collaborate on projects related Machine Learning Applications,Open Source Software
