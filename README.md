@@ -37,6 +37,7 @@
 - **Database Management:** Mysql
 - **Machine Learning:** Supervised learning, AI/ML models
 
+
 ## Contact
 
 - 📧 ishwariupadhyay85@gmail.com
