@@ -30,12 +30,15 @@
 
 </p>
 
-
 ## Skills
 - **Data Engineering:**AWS, GCP, Apache Kafka, Apache airflow,BigQuery,Python,SQL
 - **Data Analysis:** Tabalu,Looker studio, Excel sheet, juypter notebook
 - **Database Management:** Mysql
 - **Machine Learning:** Supervised learning, AI/ML models
+
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishwari198&layout=compact&langs_count=8&card_width=320" />
+  </a>
 
 
 ## Contact
