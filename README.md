@@ -29,6 +29,10 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
 </p>
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishwari198&layout=compact&langs_count=8&card_width=320" />
+  </a>
+
 
 ## Skills
 - **Data Engineering:**AWS, GCP, Apache Kafka, Apache airflow,BigQuery,Python,SQL
@@ -36,9 +40,6 @@
 - **Database Management:** Mysql
 - **Machine Learning:** Supervised learning, AI/ML models
 
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishwari198&layout=compact&langs_count=8&card_width=320" />
-  </a>
 
 
 ## Contact
