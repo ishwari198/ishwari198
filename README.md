@@ -6,7 +6,7 @@
 <img src="data.gif" alt="GitHub Logo" width="700px" height="200px">
 
 - 🧑‍💻 Software Engineer/Data engineer
-- 🌱 I’m currently learning data engineering,AI/ML and Node js
+- 🌱 I’m currently learning data engineering pipelines,AI/ML and Node js
 - 👯 I’m looking to collaborate on projects related Machine Learning Applications,Open Source Software
 - 🤔 I’m looking for help with Feedback on Data Projects and Learning New Technologies
 - 💬 Ask me about AI 
@@ -31,7 +31,7 @@
 
 
 ## Skills
-
+- **Data Engineering:**AWS, GCP, Apache Kafka, Apache airflow,BigQuery,Python,SQL
 - **Data Analysis:** Tabalu,Looker studio, Excel sheet, juypter notebook
 - **Database Management:** Mysql
 - **Machine Learning:** Supervised learning, AI/ML models
