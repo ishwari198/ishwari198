@@ -1,8 +1,7 @@
 
 ### Hi there!  👋  I'm Ish, 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwari198&label=Profile%20views&color=0e75b6&style=flat" alt="ishwari198" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishwari198" alt="ishwari198" /></a> </p>
-<p align="left"> <a href="https://twitter.com/upadhyayis77276" target="blank"><img src="https://img.shields.io/twitter/follow/upadhyayis77276?logo=twitter&style=for-the-badge" alt="upadhyayis77276" /></a> </p>
+<img src="data.gif" width="800" height="200">
 
 - 🧑‍💻 Software Engineer/Data engineer
 - 🌱 I’m currently learning data engineering pipelines,AI/ML and Node js
@@ -24,7 +23,7 @@
 
 
 ## Skills
-- **Data Engineering:**AWS, GCP, Apache Kafka, Apache airflow,BigQuery,Python,SQL
+-  **Data Engineering:** AWS, GCP, Apache Kafka, Apache airflow,BigQuery,Python,SQL
 - **Data Analysis:** Tabalu,Looker studio, Excel sheet, juypter notebook
 - **Database Management:** Mysql
 - **Machine Learning:** Supervised learning, AI/ML models
