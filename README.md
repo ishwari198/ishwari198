@@ -4,7 +4,7 @@
 <img src="data.gif" width="800" height="200">
 
 - 🧑‍💻 Software Engineer/Data engineer
-- 🌱 I’m currently learning data engineering pipelines,AI/ML and Node js
+- 🌱 I’m currently learning Azure cloud platform,snowflake
 - 👯 I’m looking to collaborate on projects related Machine Learning Applications,Open Source Software
 - 🤔 I’m looking for help with Feedback on Data Projects and Learning New Technologies
 - 💬 Ask me about AI 
